@@ -1,0 +1,48 @@
+C:\Users\eriks\source\repos\WFA_beadando_0104\bin\Debug\net6.0-windows\WFA_beadando_0104.exe
+C:\Users\eriks\source\repos\WFA_beadando_0104\bin\Debug\net6.0-windows\WFA_beadando_0104.deps.json
+C:\Users\eriks\source\repos\WFA_beadando_0104\bin\Debug\net6.0-windows\WFA_beadando_0104.runtimeconfig.json
+C:\Users\eriks\source\repos\WFA_beadando_0104\bin\Debug\net6.0-windows\WFA_beadando_0104.dll
+C:\Users\eriks\source\repos\WFA_beadando_0104\bin\Debug\net6.0-windows\WFA_beadando_0104.pdb
+C:\Users\eriks\source\repos\WFA_beadando_0104\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\eriks\source\repos\WFA_beadando_0104\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\eriks\source\repos\WFA_beadando_0104\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\eriks\source\repos\WFA_beadando_0104\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\eriks\source\repos\WFA_beadando_0104\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eriks\source\repos\WFA_beadando_0104\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\WFA_beadando_0104.csproj.AssemblyReference.cache
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\WFA_beadando_0104.FilmekMain.resources
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\WFA_beadando_0104.csproj.GenerateResource.cache
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\WFA_beadando_0104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\WFA_beadando_0104.AssemblyInfoInputs.cache
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\WFA_beadando_0104.AssemblyInfo.cs
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\WFA_beadando_0104.csproj.CoreCompileInputs.cache
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\WFA_beadando_0104.csproj.CopyComplete
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\WFA_beadando_0104.dll
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\refint\WFA_beadando_0104.dll
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\WFA_beadando_0104.pdb
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\WFA_beadando_0104.genruntimeconfig.cache
+C:\Users\eriks\source\repos\WFA_beadando_0104\obj\Debug\net6.0-windows\ref\WFA_beadando_0104.dll
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\bin\Debug\net6.0-windows\WFA_beadando_0104.exe
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\bin\Debug\net6.0-windows\WFA_beadando_0104.deps.json
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\bin\Debug\net6.0-windows\WFA_beadando_0104.runtimeconfig.json
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\bin\Debug\net6.0-windows\WFA_beadando_0104.dll
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\bin\Debug\net6.0-windows\WFA_beadando_0104.pdb
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\WFA_beadando_0104.csproj.AssemblyReference.cache
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\WFA_beadando_0104.FilmekMain.resources
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\WFA_beadando_0104.csproj.GenerateResource.cache
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\WFA_beadando_0104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\WFA_beadando_0104.AssemblyInfoInputs.cache
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\WFA_beadando_0104.AssemblyInfo.cs
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\WFA_beadando_0104.csproj.CoreCompileInputs.cache
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\WFA_beadando_0104.csproj.CopyComplete
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\WFA_beadando_0104.dll
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\refint\WFA_beadando_0104.dll
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\WFA_beadando_0104.pdb
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\WFA_beadando_0104.genruntimeconfig.cache
+C:\Users\Vadászi Attila\Desktop\wfa-beadando-filmek-main\obj\Debug\net6.0-windows\ref\WFA_beadando_0104.dll
